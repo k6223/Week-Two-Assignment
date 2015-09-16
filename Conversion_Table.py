@@ -2,7 +2,7 @@
 __author__ = 'Kollin Schalhamer'
 
 # CIS-125-82A
-# conversion.py
+# Conversion_Table.py
 #
 # Converts a table of degrees from Fahrenheit to Celsius
 
